@@ -1,0 +1,24 @@
+# Index - 2026-05-12
+
+| # | Category | Title |
+|---|---|---|
+| 1 | startups | [Poolside AI raises 500M Series B for code generation foundation model](items/01-startups-poolside-ai-raises-500m-series-b-for-code.md) |
+| 2 | hardware | [Global chip shortage eases as TSMC CoWoS-L packaging capacity doubles](items/02-hardware-global-chip-shortage-eases-as-tsmc-cowosl-packaging.md) |
+| 3 | devtools | [Deno 2.3 adds npm workspaces support and JSR package signing](items/03-devtools-deno-23-adds-npm-workspaces-support-and-jsr.md) |
+| 4 | engineering | [DoorDash engineering releases details on real-time logistics optimization at scale](items/04-engineering-doordash-engineering-releases-details-on-realtime-logistics-optimization.md) |
+| 5 | cloud | [Cloudflare Workers AI adds support for 50 open-source models at edge](items/05-cloud-cloudflare-workers-ai-adds-support-for-50-opensource.md) |
+| 6 | security | [Okta patches session fixation flaw allowing account takeover without MFA bypass](items/06-security-okta-patches-session-fixation-flaw-allowing-account-takeover.md) |
+| 7 | research | [UC Berkeley proposes Constitutional Reward Models for scalable AI alignment](items/07-research-uc-berkeley-proposes-constitutional-reward-models-for-scalable.md) |
+| 8 | robotics | [Boston Dynamics Spot launches AI-powered anomaly detection for industrial plants](items/08-robotics-boston-dynamics-spot-launches-aipowered-anomaly-detection-for.md) |
+| 9 | science | [New carbon capture material absorbs CO2 at 98 percent efficiency from ambient air](items/09-science-new-carbon-capture-material-absorbs-co2-at-98.md) |
+| 10 | ai | [Stability AI releases Stable Diffusion 4 with native video and 3D generation](items/10-ai-stability-ai-releases-stable-diffusion-4-with-native.md) |
+| 11 | startups | [Mistral AI raises 1B Series C at 8B valuation to expand open model strategy](items/11-startups-mistral-ai-raises-1b-series-c-at-8b.md) |
+| 12 | hardware | [AMD Instinct MI400 series launches with 48GB HBM3e per chiplet architecture](items/12-hardware-amd-instinct-mi400-series-launches-with-48gb-hbm3e.md) |
+| 13 | devtools | [Nx 21 brings module federation support and Vite-based task caching](items/13-devtools-nx-21-brings-module-federation-support-and-vitebased.md) |
+| 14 | engineering | [Notion engineering blog covers real-time collaboration scaling to 30M daily users](items/14-engineering-notion-engineering-blog-covers-realtime-collaboration-scaling-to.md) |
+| 15 | cloud | [Snowflake Cortex AI adds 12 new LLM functions and document AI pipeline](items/15-cloud-snowflake-cortex-ai-adds-12-new-llm-functions.md) |
+| 16 | security | [NIST finalizes post-quantum cryptography standards for enterprise adoption](items/16-security-nist-finalizes-postquantum-cryptography-standards-for-enterprise-adoption.md) |
+| 17 | research | [Harvard Medical School uses AI to discover antibiotic targeting drug-resistant bacteria](items/17-research-harvard-medical-school-uses-ai-to-discover-antibiotic.md) |
+| 18 | robotics | [Covariant RFM-1 robotic foundation model generalizes to 85 percent of new warehouse tasks](items/18-robotics-covariant-rfm1-robotic-foundation-model-generalizes-to-85.md) |
+| 19 | science | [AI model predicts earthquake locations 70 percent more accurately using seismic signatures](items/19-science-ai-model-predicts-earthquake-locations-70-percent-more.md) |
+| 20 | ai | [Perplexity launches Deep Research Pro with multi-step web reasoning](items/20-ai-perplexity-launches-deep-research-pro-with-multistep-web.md) |
