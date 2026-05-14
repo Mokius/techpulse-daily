@@ -1,0 +1,29 @@
+# AtomTech Daily - Digest - 2026-05-14
+
+20 stories in one-line format.
+
+---
+
+1. 🟢 [Lyft engineering team open-sources FlexStack infrastructure configuration platform](items/01-engineering-lyft-engineering-team-opensources-flexstack-infrastructure-configuration-platform.md) - FlexStack manages 5000 microservices across 20 Kubernetes clusters with GitOps workflows.
+2. 🟡 [Redis 8.0 launches with native vector type and JSON search integration](items/02-cloud-redis-80-launches-with-native-vector-type-and.md) - Redis 8.0 adds VECTOR data type enabling semantic search without external vector store.
+3. 🔴 [Juniper Networks patches pre-auth RCE in Junos OS routing platform](items/03-security-juniper-networks-patches-preauth-rce-in-junos-os.md) - Stack overflow in BGP packet parser exploitable remotely without authentication.
+4. 🟡 [Microsoft Research publishes analysis of LLM reasoning failures on causal tasks](items/04-research-microsoft-research-publishes-analysis-of-llm-reasoning-failures.md) - Models show systematic failures on counterfactual and interventional causal reasoning.
+5. 🔴 [iRobot Roomba j10 launches with AI object recognition and room semantic mapping](items/05-robotics-irobot-roomba-j10-launches-with-ai-object-recognition.md) - Roomba j10 identifies and avoids 200 object categories and learns room usage patterns.
+6. 🔴 [Wearable biosensor continuously monitors 12 biomarkers from sweat in real time](items/06-science-wearable-biosensor-continuously-monitors-12-biomarkers-from-sweat.md) - Graphene-based sensor array provides lab-quality metabolite readings from perspiration.
+7. 🔴 [Nvidia NIM microservices add support for Llama 4 and Mixtral 8x22B](items/07-ai-nvidia-nim-microservices-add-support-for-llama-4.md) - NIM updates reduce inference latency by 40 percent via optimized CUDA kernel scheduling.
+8. 🔴 [Writer raises 200M Series C to expand enterprise generative AI platform](items/08-startups-writer-raises-200m-series-c-to-expand-enterprise.md) - Writer reaches 500 enterprise customers including 50 Fortune 500 companies.
+9. 🔴 [Kingston releases PCIe 6.0 NVMe SSD with 24 GB per second sequential read speed](items/09-hardware-kingston-releases-pcie-60-nvme-ssd-with-24.md) - New controller and 3D NAND combination targets workstation and server NVMe markets.
+10. 🟢 [Sourcegraph Cody 2.0 adds multi-repo context and enterprise knowledge graph](items/10-devtools-sourcegraph-cody-20-adds-multirepo-context-and-enterprise.md) - Cody 2.0 indexes documentation wikis and code simultaneously for accurate answers.
+11. 🟢 [Stripe processes first 1B transaction day using event-driven microservices architecture](items/11-engineering-stripe-processes-first-1b-transaction-day-using-eventdriven.md) - New payment processing pipeline achieves 99.999 percent uptime with zero-downtime deployments.
+12. 🟡 [Microsoft Azure launches confidential computing zones for regulated AI workloads](items/12-cloud-microsoft-azure-launches-confidential-computing-zones-for-regulated.md) - Confidential VMs with hardware attestation meet FedRAMP High and HIPAA requirements.
+13. 🔴 [npm registry disables 2400 packages linked to cryptocurrency drainer malware](items/13-security-npm-registry-disables-2400-packages-linked-to-cryptocurrency.md) - Packages typosquatted popular libraries to inject wallet draining scripts in builds.
+14. 🟡 [NVIDIA Research releases paper on speculative decoding with 3x inference speedup](items/14-research-nvidia-research-releases-paper-on-speculative-decoding-with.md) - Draft model approach reduces token generation latency without quality degradation.
+15. 🔴 [Tesla Optimus Gen 3 achieves 5000 unit production run at Fremont factory](items/15-robotics-tesla-optimus-gen-3-achieves-5000-unit-production.md) - Optimus Gen 3 assembles battery modules at human-equivalent speed with force sensing.
+16. 🔴 [Researchers develop light-activated cancer drug that spares healthy tissue](items/16-science-researchers-develop-lightactivated-cancer-drug-that-spares-healthy.md) - Photoswitchable prodrug activates only in tumor microenvironment reducing systemic toxicity.
+17. 🔴 [Weights and Biases launches Weave 2.0 for LLM observability and tracing](items/17-ai-weights-and-biases-launches-weave-20-for-llm.md) - Weave 2.0 adds automatic span capture cost tracking and eval dataset versioning.
+18. 🔴 [Pika Labs raises 80M Series B for AI video generation platform](items/18-startups-pika-labs-raises-80m-series-b-for-ai.md) - Pika 2.0 generates 60-second videos from text and enables style-consistent video editing.
+19. 🔴 [Global chip shortage eases as TSMC CoWoS-L packaging capacity doubles](items/19-hardware-global-chip-shortage-eases-as-tsmc-cowosl-packaging.md) - Expanded advanced packaging removes bottleneck constraining AI GPU shipment volumes.
+20. 🟢 [Rust 1.82 stabilizes async closures and const generics improvements](items/20-devtools-rust-182-stabilizes-async-closures-and-const-generics.md) - Async closures enable ergonomic futures without boxing in performance-critical code.
+
+---
+*AtomTech Daily - 2026-05-14*
