@@ -1,0 +1,24 @@
+# Index - 2026-05-19
+
+| # | Category | Title |
+|---|---|---|
+| 1 | cloud | [Databricks releases Delta Lake 4.0 with native vector index and embedding support](items/01-cloud-databricks-releases-delta-lake-40-with-native-vector.md) |
+| 2 | security | [Google Chrome patches V8 engine zero-day CVE-2026-4312 exploited in the wild](items/02-security-google-chrome-patches-v8-engine-zeroday-cve20264312-exploited.md) |
+| 3 | research | [CMU and Stanford release joint benchmark for evaluating long-context LLM faithfulness](items/03-research-cmu-and-stanford-release-joint-benchmark-for-evaluating.md) |
+| 4 | robotics | [Boston Dynamics Atlas electric version ships to 50 enterprise customers for trials](items/04-robotics-boston-dynamics-atlas-electric-version-ships-to-50.md) |
+| 5 | science | [Ocean sediment cores reveal Atlantic circulation slowdown accelerating since 1950](items/05-science-ocean-sediment-cores-reveal-atlantic-circulation-slowdown-accelerating.md) |
+| 6 | ai | [Cohere launches Command R Plus 2026 with 256K context and retrieval improvements](items/06-ai-cohere-launches-command-r-plus-2026-with-256k.md) |
+| 7 | startups | [Poolside AI raises 500M Series B for code generation foundation model](items/07-startups-poolside-ai-raises-500m-series-b-for-code.md) |
+| 8 | hardware | [Cerebras WSE-4 wafer-scale chip delivers 4 ExaFLOPS for training large models](items/08-hardware-cerebras-wse4-waferscale-chip-delivers-4-exaflops-for.md) |
+| 9 | devtools | [Biome 2.0 releases unified JS TS CSS formatter and linter in single binary](items/09-devtools-biome-20-releases-unified-js-ts-css-formatter.md) |
+| 10 | engineering | [GitHub Copilot team publishes study on code review automation effectiveness](items/10-engineering-github-copilot-team-publishes-study-on-code-review.md) |
+| 11 | cloud | [Supabase raises 200M Series C reaching 1M active databases on the platform](items/11-cloud-supabase-raises-200m-series-c-reaching-1m-active.md) |
+| 12 | security | [Fortinet FortiGate SSL-VPN heap overflow CVE-2026-3921 actively exploited](items/12-security-fortinet-fortigate-sslvpn-heap-overflow-cve20263921-actively-exploited.md) |
+| 13 | research | [Salesforce AI Research publishes CodeGen3 achieving new state of the art on HumanEval plus](items/13-research-salesforce-ai-research-publishes-codegen3-achieving-new-state.md) |
+| 14 | robotics | [1X Technologies NEO robot demonstrates household task completion in real homes](items/14-robotics-1x-technologies-neo-robot-demonstrates-household-task-completion.md) |
+| 15 | science | [Physicists demonstrate room-temperature superconductivity in hydrogen-rich compound](items/15-science-physicists-demonstrate-roomtemperature-superconductivity-in-hydrogenrich-compound.md) |
+| 16 | ai | [Apple Intelligence expands with on-device reasoning model for iOS 20](items/16-ai-apple-intelligence-expands-with-ondevice-reasoning-model-for.md) |
+| 17 | startups | [Mistral AI raises 1B Series C at 8B valuation to expand open model strategy](items/17-startups-mistral-ai-raises-1b-series-c-at-8b.md) |
+| 18 | hardware | [Photonic computing startup Lightmatter ships 100 TOPS optical inference chip](items/18-hardware-photonic-computing-startup-lightmatter-ships-100-tops-optical.md) |
+| 19 | devtools | [Helm 4.0 releases with OCI-native chart distribution and schema validation](items/19-devtools-helm-40-releases-with-ocinative-chart-distribution-and.md) |
+| 20 | engineering | [Canva engineering team details AI design suggestion system serving 150M users](items/20-engineering-canva-engineering-team-details-ai-design-suggestion-system.md) |
