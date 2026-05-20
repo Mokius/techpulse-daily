@@ -1,0 +1,24 @@
+# Index - 2026-05-20
+
+| # | Category | Title |
+|---|---|---|
+| 1 | ai | [Apple Intelligence expands with on-device reasoning model for iOS 20](items/01-ai-apple-intelligence-expands-with-ondevice-reasoning-model-for.md) |
+| 2 | startups | [Cohere raises 500M strategic round from Nvidia and Oracle for enterprise LLMs](items/02-startups-cohere-raises-500m-strategic-round-from-nvidia-and.md) |
+| 3 | hardware | [Lenovo and NVIDIA partner on liquid-cooled AI supercomputer for EU research](items/03-hardware-lenovo-and-nvidia-partner-on-liquidcooled-ai-supercomputer.md) |
+| 4 | devtools | [Docker Desktop 4.40 adds AI-assisted Dockerfile generation and security scanning](items/04-devtools-docker-desktop-440-adds-aiassisted-dockerfile-generation-and.md) |
+| 5 | engineering | [Lyft engineering team open-sources FlexStack infrastructure configuration platform](items/05-engineering-lyft-engineering-team-opensources-flexstack-infrastructure-configuration-platform.md) |
+| 6 | cloud | [Supabase raises 200M Series C reaching 1M active databases on the platform](items/06-cloud-supabase-raises-200m-series-c-reaching-1m-active.md) |
+| 7 | security | [NIST finalizes post-quantum cryptography standards for enterprise adoption](items/07-security-nist-finalizes-postquantum-cryptography-standards-for-enterprise-adoption.md) |
+| 8 | research | [Berkeley BAIR publishes robot learning dataset with 1M real-world manipulation episodes](items/08-research-berkeley-bair-publishes-robot-learning-dataset-with-1m.md) |
+| 9 | robotics | [Robust AI Carter mobile robot platform ships to 200 logistics facilities worldwide](items/09-robotics-robust-ai-carter-mobile-robot-platform-ships-to.md) |
+| 10 | science | [Deep learning model predicts protein-protein interactions with 94 percent accuracy](items/10-science-deep-learning-model-predicts-proteinprotein-interactions-with-94.md) |
+| 11 | ai | [ElevenLabs releases Flash v3 voice model with sub-100ms latency](items/11-ai-elevenlabs-releases-flash-v3-voice-model-with-sub100ms.md) |
+| 12 | startups | [Lovable raises 150M Series B for AI-powered full-stack app builder](items/12-startups-lovable-raises-150m-series-b-for-aipowered-fullstack.md) |
+| 13 | hardware | [SK Hynix HBM4E samples achieve 8 TB per second bandwidth per stack for AI accelerators](items/13-hardware-sk-hynix-hbm4e-samples-achieve-8-tb-per.md) |
+| 14 | devtools | [Terraform 1.12 adds generate blocks for dynamic resource scaffolding](items/14-devtools-terraform-112-adds-generate-blocks-for-dynamic-resource.md) |
+| 15 | engineering | [Stripe processes first 1B transaction day using event-driven microservices architecture](items/15-engineering-stripe-processes-first-1b-transaction-day-using-eventdriven.md) |
+| 16 | cloud | [Oracle Cloud Infrastructure adds 100Gbps networking for AI cluster interconnects](items/16-cloud-oracle-cloud-infrastructure-adds-100gbps-networking-for-ai.md) |
+| 17 | security | [Wiz Research discovers tenant isolation bypass in major cloud provider AI APIs](items/17-security-wiz-research-discovers-tenant-isolation-bypass-in-major.md) |
+| 18 | research | [Microsoft Research publishes analysis of LLM reasoning failures on causal tasks](items/18-research-microsoft-research-publishes-analysis-of-llm-reasoning-failures.md) |
+| 19 | robotics | [Boston Dynamics Atlas electric version ships to 50 enterprise customers for trials](items/19-robotics-boston-dynamics-atlas-electric-version-ships-to-50.md) |
+| 20 | science | [Scientists reverse age-related cognitive decline in mice via epigenetic reset](items/20-science-scientists-reverse-agerelated-cognitive-decline-in-mice-via.md) |
