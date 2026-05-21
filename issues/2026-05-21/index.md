@@ -1,0 +1,24 @@
+# Index - 2026-05-21
+
+| # | Category | Title |
+|---|---|---|
+| 1 | startups | [Poolside AI raises 500M Series B for code generation foundation model](items/01-startups-poolside-ai-raises-500m-series-b-for-code.md) |
+| 2 | hardware | [Google Axion 2 custom ARM server CPU outperforms x86 by 50 percent per watt](items/02-hardware-google-axion-2-custom-arm-server-cpu-outperforms.md) |
+| 3 | devtools | [Sourcegraph Cody 2.0 adds multi-repo context and enterprise knowledge graph](items/03-devtools-sourcegraph-cody-20-adds-multirepo-context-and-enterprise.md) |
+| 4 | engineering | [Discord engineering publishes details on handling 10M concurrent voice channel users](items/04-engineering-discord-engineering-publishes-details-on-handling-10m-concurrent.md) |
+| 5 | cloud | [Oracle Cloud Infrastructure adds 100Gbps networking for AI cluster interconnects](items/05-cloud-oracle-cloud-infrastructure-adds-100gbps-networking-for-ai.md) |
+| 6 | security | [npm registry disables 2400 packages linked to cryptocurrency drainer malware](items/06-security-npm-registry-disables-2400-packages-linked-to-cryptocurrency.md) |
+| 7 | research | [UC Berkeley proposes Constitutional Reward Models for scalable AI alignment](items/07-research-uc-berkeley-proposes-constitutional-reward-models-for-scalable.md) |
+| 8 | robotics | [Amazon Scout delivery robots return with improved obstacle avoidance in Seattle](items/08-robotics-amazon-scout-delivery-robots-return-with-improved-obstacle.md) |
+| 9 | science | [Wearable biosensor continuously monitors 12 biomarkers from sweat in real time](items/09-science-wearable-biosensor-continuously-monitors-12-biomarkers-from-sweat.md) |
+| 10 | ai | [xAI Grok 4 reasoning model surpasses o3 on AIME math competition benchmark](items/10-ai-xai-grok-4-reasoning-model-surpasses-o3-on.md) |
+| 11 | startups | [Mistral AI raises 1B Series C at 8B valuation to expand open model strategy](items/11-startups-mistral-ai-raises-1b-series-c-at-8b.md) |
+| 12 | hardware | [Samsung 3nm GAA process yields improve to 75 percent enabling mass market chips](items/12-hardware-samsung-3nm-gaa-process-yields-improve-to-75.md) |
+| 13 | devtools | [Rust 1.82 stabilizes async closures and const generics improvements](items/13-devtools-rust-182-stabilizes-async-closures-and-const-generics.md) |
+| 14 | engineering | [Airbnb engineering team migrates to React Server Components reducing JS bundle 40 percent](items/14-engineering-airbnb-engineering-team-migrates-to-react-server-components.md) |
+| 15 | cloud | [Weaviate 2.0 launches with multi-tenancy async indexing and hybrid search](items/15-cloud-weaviate-20-launches-with-multitenancy-async-indexing-and.md) |
+| 16 | security | [Okta patches session fixation flaw allowing account takeover without MFA bypass](items/16-security-okta-patches-session-fixation-flaw-allowing-account-takeover.md) |
+| 17 | research | [Harvard Medical School uses AI to discover antibiotic targeting drug-resistant bacteria](items/17-research-harvard-medical-school-uses-ai-to-discover-antibiotic.md) |
+| 18 | robotics | [SoftBank-backed Nuro launches cargo delivery in suburban Houston neighborhoods](items/18-robotics-softbankbacked-nuro-launches-cargo-delivery-in-suburban-houston.md) |
+| 19 | science | [Researchers develop light-activated cancer drug that spares healthy tissue](items/19-science-researchers-develop-lightactivated-cancer-drug-that-spares-healthy.md) |
+| 20 | ai | [Amazon Bedrock adds Nova Pro 2 with 500K context and multimodal support](items/20-ai-amazon-bedrock-adds-nova-pro-2-with-500k.md) |
