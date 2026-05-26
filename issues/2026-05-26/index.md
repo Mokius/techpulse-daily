@@ -1,0 +1,24 @@
+# Index - 2026-05-26
+
+| # | Category | Title |
+|---|---|---|
+| 1 | hardware | [Western Digital ships 32TB CMR hard drive using new energy-assisted recording](items/01-hardware-western-digital-ships-32tb-cmr-hard-drive-using.md) |
+| 2 | devtools | [JetBrains Fleet 1.0 exits early access with full IDE feature parity](items/02-devtools-jetbrains-fleet-10-exits-early-access-with-full.md) |
+| 3 | engineering | [Discord engineering publishes details on handling 10M concurrent voice channel users](items/03-engineering-discord-engineering-publishes-details-on-handling-10m-concurrent.md) |
+| 4 | cloud | [Cloudflare Workers AI adds support for 50 open-source models at edge](items/04-cloud-cloudflare-workers-ai-adds-support-for-50-opensource.md) |
+| 5 | security | [Wiz Research discovers tenant isolation bypass in major cloud provider AI APIs](items/05-security-wiz-research-discovers-tenant-isolation-bypass-in-major.md) |
+| 6 | research | [CMU researchers publish scaling law analysis for mixture-of-experts architectures](items/06-research-cmu-researchers-publish-scaling-law-analysis-for-mixtureofexperts.md) |
+| 7 | robotics | [Skydio X10 enterprise drone achieves BVLOS certification for infrastructure inspection](items/07-robotics-skydio-x10-enterprise-drone-achieves-bvlos-certification-for.md) |
+| 8 | science | [NASA Artemis IV crew completes first lunar surface EVA since Apollo 17](items/08-science-nasa-artemis-iv-crew-completes-first-lunar-surface.md) |
+| 9 | ai | [Google DeepMind unveils Gemini 2.5 Ultra with multimodal reasoning improvements](items/09-ai-google-deepmind-unveils-gemini-25-ultra-with-multimodal.md) |
+| 10 | startups | [Cursor AI raises 900M at 9B valuation as AI coding editor hits 1M monthly users](items/10-startups-cursor-ai-raises-900m-at-9b-valuation-as.md) |
+| 11 | hardware | [Arm announces Neoverse V3 architecture targeting cloud AI inference workloads](items/11-hardware-arm-announces-neoverse-v3-architecture-targeting-cloud-ai.md) |
+| 12 | devtools | [pnpm 10 ships with corepack integration and improved workspace linking](items/12-devtools-pnpm-10-ships-with-corepack-integration-and-improved.md) |
+| 13 | engineering | [Airbnb engineering team migrates to React Server Components reducing JS bundle 40 percent](items/13-engineering-airbnb-engineering-team-migrates-to-react-server-components.md) |
+| 14 | cloud | [Snowflake Cortex AI adds 12 new LLM functions and document AI pipeline](items/14-cloud-snowflake-cortex-ai-adds-12-new-llm-functions.md) |
+| 15 | security | [CISA adds Cisco IOS XE zero-day CVE-2026-5501 to Known Exploited Vulnerabilities catalog](items/15-security-cisa-adds-cisco-ios-xe-zeroday-cve20265501-to.md) |
+| 16 | research | [Anthropic Constitutional AI paper shows 40 percent reduction in harmful outputs vs RLHF](items/16-research-anthropic-constitutional-ai-paper-shows-40-percent-reduction.md) |
+| 17 | robotics | [Carnegie Mellon researchers achieve bipedal robot parkour at human-level agility](items/17-robotics-carnegie-mellon-researchers-achieve-bipedal-robot-parkour-at.md) |
+| 18 | science | [MIT researchers achieve 98.7 percent efficiency in perovskite-silicon tandem solar cell](items/18-science-mit-researchers-achieve-987-percent-efficiency-in-perovskitesilicon.md) |
+| 19 | ai | [Microsoft Copilot Studio adds autonomous agent orchestration capabilities](items/19-ai-microsoft-copilot-studio-adds-autonomous-agent-orchestration-capabilities.md) |
+| 20 | startups | [Tome raises 75M for AI-powered presentation and sales storytelling platform](items/20-startups-tome-raises-75m-for-aipowered-presentation-and-sales.md) |
